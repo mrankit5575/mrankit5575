@@ -1,55 +1,26 @@
-Hi, I'm Ankit 👋
-Full Stack MERN Developer specializing in scalable web & mobile applications. Passionate about innovation, technology, and empowering developers through practical education and mentorship.
+ <h1 align="center">Hi 👋, I'm Ankit</h1>
+<h3 align="center">Full Stack MERN Developer building scalable web & mobile apps React • Next.js • React Native • Flutter | AWS • Redis • Kafka • Nginx • SQL</h3>
 
-👨‍💻 Professional Profile
-Experienced Full Stack Developer with expertise in the MERN stack, Next.js, TypeScript, and cross-platform mobile development. I build robust, production-ready applications while maintaining clean architecture and industry best practices.
-Beyond development, I actively contribute to the tech community by:
-Creating educational content to simplify complex concepts
-Mentoring 50+ students in practical development skills
-Delivering 25+ client projects with focus on scalability and performance
+- 🔭 I’m currently working on [avdevelopment](https://avdevelopment.in/)
 
-Advocating for project-based learning and collaborative growth
-Currently exploring advanced system design, performance optimization, and emerging technologies to drive future innovation.
+- 🌱 I’m currently learning **🌱 I’m currently learning: - Advanced Backend Engineering (Senior-level architecture & scalability) - Building RAG (Retrieval-Augmented Generation) systems - Deep understanding of LLMs (how they work under the hood) - Designing real-world, production-grade applications**
 
-💼 Professional Experience
-Project Delivery & Client Work
-25+ Projects Delivered: End-to-end development of websites, backend systems, and RESTful APIs
+- 👯 I’m looking to collaborate on [shreeledger](https://www.shreeledger.in/)
 
-Full-Stack Solutions: Architecture design, development, deployment, and maintenance
+- 👨‍💻 All of my projects are available at [https://avdevelopment.in/](https://avdevelopment.in/)
 
-Client Collaboration: Requirements analysis, iterative development, and timely delivery
+- 💬 Ask me about **MERN Stack (MongoDB, Express, React, Node.js) - React, Next.js & modern frontend architecture - Mobile development (React Native, Expo, Flutter) - Backend engineering & scalable system design - REST APIs & production-ready architectures - AWS, Nginx & cloud deployment - Redis, Kafka & real-time systems - SQL / RDBMS & database design - Performance optimization & clean architecture**
 
-Quality Focus: Emphasis on performance optimization, security, and maintainability
+- 📫 How to reach me **gmail;**
 
-Technical Mentorship & Education
-50+ Students Mentored: Guided developers from beginner to job-ready proficiency
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://x.com/ankitsingh20303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/ankitsingh20303" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100025130851879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100025130851879" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/viranshusingh055/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/viranshusingh055/" height="30" width="40" /></a>
+</p>
 
-Practical Curriculum: Focused on real-world projects and industry-relevant skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-Community Building: Created accessible learning pathways for aspiring developers
-
-Content Creation: Produced educational materials to demystify complex technologies
-
-📊 GitHub Analytics
-https://github-readme-stats.vercel.app/api?username=mrankit5575&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=30,0d0d0d,1a1a2e&title_color=fff&text_color=ccc&icon_color=4cc9f0
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=mrankit5575&layout=compact&hide_border=true&theme=radical&bg_color=30,1a1a2e,16213e&title_color=fff&text_color=ccc
-
-📬 Connect With Me
- https://www.instagram.com/viranshusingh055/?next=%2F
- https://www.linkedin.com/in/ankit5575/
- https://discord.com/discovery/servers
- https://hashnode.com/@ankit5575
- gmail-ankitroy5575@gmail.com
- ankitsingh9718295575@gmail.com
- 
-🚀 Philosophy
-"Building solutions that matter, sharing knowledge that empowers, and growing together as a community."
-🔭 Currently: Building scalable applications & exploring cutting-edge technologies
-🌱 Learning: Advanced system design, performance optimization, and emerging frameworks
-👯 Looking to: Collaborate on innovative projects and open-source contributions
-💬 Ask me about: MERN stack, project architecture, or career guidance in tech
-⚡ Fun fact: I believe the best way to learn is by building—and sometimes breaking—things
-
-Always learning. Always building. Always helping others grow.
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrankit5575&show_icons=true&locale=en&layout=compact" alt="mrankit5575" /></p>
